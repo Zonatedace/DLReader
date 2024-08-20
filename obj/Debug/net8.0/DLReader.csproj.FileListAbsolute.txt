@@ -12,3 +12,4 @@ C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\refint\DLReader.dll
 C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.pdb
 C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.genruntimeconfig.cache
 C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\ref\DLReader.dll
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.sourcelink.json
