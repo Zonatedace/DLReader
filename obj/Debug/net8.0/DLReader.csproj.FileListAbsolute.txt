@@ -1,0 +1,14 @@
+C:\Users\Brandon\source\repos\DLReader\bin\Debug\net8.0\DLReader.exe
+C:\Users\Brandon\source\repos\DLReader\bin\Debug\net8.0\DLReader.deps.json
+C:\Users\Brandon\source\repos\DLReader\bin\Debug\net8.0\DLReader.runtimeconfig.json
+C:\Users\Brandon\source\repos\DLReader\bin\Debug\net8.0\DLReader.dll
+C:\Users\Brandon\source\repos\DLReader\bin\Debug\net8.0\DLReader.pdb
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.dll
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\refint\DLReader.dll
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.pdb
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\DLReader.genruntimeconfig.cache
+C:\Users\Brandon\source\repos\DLReader\obj\Debug\net8.0\ref\DLReader.dll
